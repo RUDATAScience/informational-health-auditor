@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Mac OS
+.DS_Store
+
+# Data (If you don't want to upload large datasets)
+test_data/*.csv
